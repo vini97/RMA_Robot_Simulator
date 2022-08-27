@@ -22,7 +22,7 @@ public class RobotScript : MonoBehaviour{
 
         controller = GetComponent<CharacterController>();
 
-        gravity = (-2 * maxJumpHeight) / (timeToMaxHeight * timeToMaxHeight);
+        gravity = (-0.5f * maxJumpHeight) / (timeToMaxHeight * timeToMaxHeight);
         jumpSpeed = (2 * maxJumpHeight) / timeToMaxHeight;
         
     }
