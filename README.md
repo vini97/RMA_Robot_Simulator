@@ -13,15 +13,3 @@ Tente encontrá-lo no mapa (se for capaz) e seja surpreendido(a) com uma grande 
 - Mouse para controlar a câmera.
 
 ## ⚠️ CUIDADO COM OS INIMIGOS QUE ESTÃO INVADINDO O PLANETA! ⚠️
-
-## 🎓 Autores do projeto:
-```
-Vinicius Viana
-Brayan Inácio
-Higo Hideki
-André Hosoe
-Pedro Zamora
-Rafael Teixeira
-Christopher Felix
-Askely Huang
-```
