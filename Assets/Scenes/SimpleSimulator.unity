@@ -491,7 +491,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
-  m_LocalRotation: {x: 0.31603995, y: 0.005346752, z: -0.0017811061, w: 0.94872916}
+  m_LocalRotation: {x: 0.31603995, y: 0.0053467187, z: -0.0017810956, w: 0.94872916}
   m_LocalPosition: {x: 0.00009611994, y: 11.188, z: -2.9858704}
   m_LocalScale: {x: 0.5, y: 0.5, z: 0.5}
   m_Children: []
@@ -598,7 +598,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1115659565}
-  m_LocalRotation: {x: 0.31603995, y: 0.005346752, z: -0.0017811059, w: 0.94872916}
+  m_LocalRotation: {x: 0.31603995, y: 0.005346719, z: -0.001781095, w: 0.94872916}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -619,7 +619,7 @@ GameObject:
   - component: {fileID: 1355715577}
   m_Layer: 0
   m_Name: Robot
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -798,6 +798,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: VirtualBot
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d8e3c3963c346ea428ffb610800471aa, type: 3}
+      propertyPath: m_TagString
+      value: Untagged
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d8e3c3963c346ea428ffb610800471aa, type: 3}
 --- !u!1 &1464192733 stripped
@@ -851,7 +855,7 @@ TrailRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Time: 0.3
+  m_Time: 0.2
   m_Parameters:
     serializedVersion: 3
     widthMultiplier: 1
